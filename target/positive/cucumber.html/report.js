@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 12275765900,
+  "duration": 11136273400,
   "status": "passed"
 });
 formatter.scenario({
@@ -110,14 +110,14 @@ formatter.match({
   "location": "SearchCarSteps.weAreOnTheHomePage(String)"
 });
 formatter.result({
-  "duration": 13247090700,
+  "duration": 4366875200,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchCarSteps.iMoveToBuySellMenu(String\u003e)"
 });
 formatter.result({
-  "duration": 4514841900,
+  "duration": 4796189200,
   "status": "passed"
 });
 formatter.match({
@@ -130,7 +130,7 @@ formatter.match({
   "location": "SearchCarSteps.clickOnLink(String)"
 });
 formatter.result({
-  "duration": 6261250800,
+  "duration": 2390314300,
   "status": "passed"
 });
 formatter.match({
@@ -143,7 +143,7 @@ formatter.match({
   "location": "SearchCarSteps.selectCarMakeAsFromAnyMakeDropdown(String)"
 });
 formatter.result({
-  "duration": 3211848600,
+  "duration": 1974908800,
   "status": "passed"
 });
 formatter.match({
@@ -156,7 +156,7 @@ formatter.match({
   "location": "SearchCarSteps.selectCarModelAsFromAnyModelDropdown(String)"
 });
 formatter.result({
-  "duration": 528710700,
+  "duration": 1282009600,
   "status": "passed"
 });
 formatter.match({
@@ -169,7 +169,7 @@ formatter.match({
   "location": "SearchCarSteps.selectCarMakeAsFromAnyLocationDropdown(String)"
 });
 formatter.result({
-  "duration": 1148068000,
+  "duration": 994478500,
   "status": "passed"
 });
 formatter.match({
@@ -182,21 +182,21 @@ formatter.match({
   "location": "SearchCarSteps.selectCarPriceAsFromAnyPriceMaxDropdown(String)"
 });
 formatter.result({
-  "duration": 410724300,
+  "duration": 645658000,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchCarSteps.clickOnFindMyNextCarButton()"
 });
 formatter.result({
-  "duration": 2828006000,
+  "duration": 2612300700,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchCarSteps.iSeeListOfSearchedCars()"
 });
 formatter.result({
-  "duration": 42500,
+  "duration": 37300,
   "status": "passed"
 });
 formatter.match({
@@ -209,12 +209,12 @@ formatter.match({
   "location": "SearchCarSteps.thePageTitleIs(String)"
 });
 formatter.result({
-  "duration": 2934800,
+  "duration": 2071100,
   "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat steps.SearchCarSteps.thePageTitleIs(SearchCarSteps.java:75)\r\n\tat ✽.And the page title is \"Bmw 1 Series Under 10000 for Sale ACT | carsguide\"(SearchCars.feature:19)\r\n",
   "status": "pending"
 });
 formatter.after({
-  "duration": 1618520100,
+  "duration": 1960553400,
   "status": "passed"
 });
 });

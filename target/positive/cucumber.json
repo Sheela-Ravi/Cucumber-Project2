@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 12060135500,
+              "duration": 12275765900,
               "status": "passed"
             },
             "match": {
@@ -21,7 +21,7 @@
         "after": [
           {
             "result": {
-              "duration": 3055407700,
+              "duration": 1618520100,
               "status": "passed"
             },
             "match": {
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3575597600,
+              "duration": 13247090700,
               "status": "passed"
             },
             "line": 6,
@@ -52,7 +52,7 @@
           },
           {
             "result": {
-              "duration": 6494193700,
+              "duration": 4514841900,
               "status": "passed"
             },
             "line": 7,
@@ -90,7 +90,7 @@
           },
           {
             "result": {
-              "duration": 5697501700,
+              "duration": 6261250800,
               "status": "passed"
             },
             "line": 12,
@@ -108,7 +108,7 @@
           },
           {
             "result": {
-              "duration": 688451400,
+              "duration": 3211848600,
               "status": "passed"
             },
             "line": 13,
@@ -126,7 +126,7 @@
           },
           {
             "result": {
-              "duration": 509811600,
+              "duration": 528710700,
               "status": "passed"
             },
             "line": 14,
@@ -144,7 +144,7 @@
           },
           {
             "result": {
-              "duration": 386739000,
+              "duration": 1148068000,
               "status": "passed"
             },
             "line": 15,
@@ -162,7 +162,7 @@
           },
           {
             "result": {
-              "duration": 349931700,
+              "duration": 410724300,
               "status": "passed"
             },
             "line": 16,
@@ -180,7 +180,7 @@
           },
           {
             "result": {
-              "duration": 2499599500,
+              "duration": 2828006000,
               "status": "passed"
             },
             "line": 17,
@@ -192,7 +192,7 @@
           },
           {
             "result": {
-              "duration": 46200,
+              "duration": 42500,
               "status": "passed"
             },
             "line": 18,
@@ -204,7 +204,7 @@
           },
           {
             "result": {
-              "duration": 3110300,
+              "duration": 2934800,
               "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat steps.SearchCarSteps.thePageTitleIs(SearchCarSteps.java:75)\r\n\tat ✽.And the page title is \"Bmw 1 Series Under 10000 for Sale ACT | carsguide\"(SearchCars.feature:19)\r\n",
               "status": "pending"
             },
